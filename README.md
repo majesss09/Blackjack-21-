@@ -97,12 +97,27 @@ while play == "y":
 ---
 
 ## 🧮 Example Gameplay
+
+
 Do you want to play a game of Blackjack? Type 'y' or 'n': y
 
+
 Your cards: [10, 8], current score = 18
+
+
 Computer's first hand: 7
+
+
 Type 'y' to get another card, type 'n' to pass: n
 
+
+
 Your final hand: [10, 8], final score: 18
+
+
 Computer's final hand: [7, 9, 5], final score: 21
+
+
 You lose 😤
+
+
